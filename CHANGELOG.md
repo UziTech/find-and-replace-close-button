@@ -1,3 +1,7 @@
+## 0.1.3 - Add tests
+
+- Add tests
+
 ## 0.1.1 - Add Screenshot
 
 - Add screenshot to readme
