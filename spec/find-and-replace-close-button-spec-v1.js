@@ -2,11 +2,24 @@
 /* globals atom */
 
 describe("find-and-replace-close-button", function () {
+	// beforeEach(async function () {
+	// 	const workspaceElement = atom.views.getView(atom.workspace);
+	//
+	// 	jasmine.attachToDOM(workspaceElement);
+	//
+	// 	const packagesActivated = Promise.all([
+	// 			atom.packages.activatePackage("find-and-replace"),
+	// 			atom.packages.activatePackage("find-and-replace-close-button"),
+	// 		]);
+	//
+	// 	console.debug("command dispatch", atom.commands.dispatch(workspaceElement, "find-and-replace:toggle"));
+	//
+	// 	await packagesActivated;
+	//
+	// });
 	beforeEach(function () {
 		var packagesActivated;
 		runs(_ => {
-			// console.debug(atom.packages.loadPackage("find-and-replace"));
-			// console.debug(atom.packages.loadPackage("find-and-replace-close-button"));
 			var workspaceElement = atom.views.getView(atom.workspace);
 
 			jasmine.attachToDOM(workspaceElement);
