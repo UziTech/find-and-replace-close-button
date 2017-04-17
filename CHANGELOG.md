@@ -1,3 +1,7 @@
+## 0.1.1 - Add Screenshot
+
+- Add screenshot to readme
+
 ## 0.1.0 - Initial Release
 
 - Add close button on Find in Current Buffer panel
