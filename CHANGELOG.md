@@ -1,3 +1,7 @@
+## 0.1.4 - Remove buttons on deactivate
+
+- Remove buttons on deactivate
+
 ## 0.1.3 - Add tests
 
 - Add tests
