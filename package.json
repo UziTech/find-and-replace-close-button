@@ -1,7 +1,7 @@
 {
   "name": "find-and-replace-close-button",
   "main": "./lib/main",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Add a close button to the find and replace panel",
   "activationCommands": {
     "atom-workspace": [
