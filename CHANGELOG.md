@@ -1,3 +1,7 @@
+## 0.2.1 - Fix package activating before panel is created
+
+- Fix package activating before panel is created
+
 ## 0.2.0 - This will no longer be needed in Atom 1.19.0
 
 - This will be merged into [find-and-replace](https://github.com/atom/find-and-replace/) in Atom 1.19.0 [#347 (comment)](https://github.com/atom/find-and-replace/issues/347#issuecomment-302483066)
