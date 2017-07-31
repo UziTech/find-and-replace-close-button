@@ -21,7 +21,7 @@
   },
   "atomTestRunner": "./spec/runner",
   "devDependencies": {
-    "atom-jasmine2-test-runner": "^0.6.1",
+    "atom-jasmine2-test-runner": "^1.0.0",
     "event-kit": "^2.2.0"
   }
 }
