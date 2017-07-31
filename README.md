@@ -4,6 +4,8 @@
 
 # Deprecated
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/find-and-replace-close-button.svg)](https://greenkeeper.io/)
+
 This will be merged into [find-and-replace](https://github.com/atom/find-and-replace/) in Atom 1.19.0 [#347 (comment)](https://github.com/atom/find-and-replace/issues/347#issuecomment-302483066)
 
 # find-and-replace-close-button package
